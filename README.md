@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Sabari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nsabari765&bg_color=070303&color=4c9e91&line=f2f2f2&point=131010&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sabari's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nsabari765&bg_color=f5f5f5&color=3c2ac6&line=31c47f&point=342f41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
