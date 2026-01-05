@@ -1,7 +1,7 @@
 ## Hi there Its me Sabarinathan R S 👋
 
 - 👉 I’m currently Studying BE Computer Science in KLN College of Engineering.
-- 2️⃣ I’m Working in Several .Net Full Stack Project with 2 Years.
+- 2️⃣ I’m Working in Several .Net Full Stack Project with 3 Years.
 - 👯 I’m looking to collaborate on with my Uncle's Project.
 - 📫 How to reach me: [nsabari765@gmail.com](mailto:nsabari765@gmail.com)
 
